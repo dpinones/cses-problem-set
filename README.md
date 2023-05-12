@@ -6,8 +6,8 @@ Solutions for the [CSES](https://cses.fi/problemset/) problemset.
 
 ### Introductory Problems
 
-- [ ] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
-- [ ] - [Missing Number](https://cses.fi/problemset/task/1083)
+- [x] - [Weird Algorithm](https://cses.fi/problemset/task/1068)
+- [x] - [Missing Number](https://cses.fi/problemset/task/1083)
 - [ ] - [Repetitions](https://cses.fi/problemset/task/1069)
 - [ ] - [Increasing Array](https://cses.fi/problemset/task/1094)
 - [ ] - [Permutations](https://cses.fi/problemset/task/1070)
